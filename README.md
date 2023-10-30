@@ -1,4 +1,4 @@
-# TiaPortal project #
+# Assemby Line project #
 
 The project is written in *Tia Portal v16*. </br>
 You can review the *source code* located in the folder or watch the *video below*.
